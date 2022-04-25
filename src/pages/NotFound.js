@@ -1,6 +1,6 @@
 const NotFound = () => {
     return <div className='centered'>
-        <p>Pate not found!</p>
+        <p>Page not found!</p>
     </div>
 }
 
